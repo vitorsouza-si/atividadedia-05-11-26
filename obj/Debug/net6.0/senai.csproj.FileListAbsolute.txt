@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\senai\bin\Debug\net6.0\senai.exe
+C:\Users\ALUNO\Desktop\senai\bin\Debug\net6.0\senai.deps.json
+C:\Users\ALUNO\Desktop\senai\bin\Debug\net6.0\senai.runtimeconfig.json
+C:\Users\ALUNO\Desktop\senai\bin\Debug\net6.0\senai.dll
+C:\Users\ALUNO\Desktop\senai\bin\Debug\net6.0\senai.pdb
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.dll
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\refint\senai.dll
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.pdb
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\senai.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\senai\obj\Debug\net6.0\ref\senai.dll
